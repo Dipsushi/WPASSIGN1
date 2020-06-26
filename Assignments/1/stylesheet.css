@@ -1,0 +1,95 @@
+body {
+		background-color: #404040;
+	}
+	
+	table, td { 
+		border: 1px #404040; 
+	}
+	td {
+		Height: 112px; 
+		width: 300px; 
+		font-family: "Courier New";
+		color: white; 
+	}
+	.buttons { 
+		text-align: center;
+		font-family: "Courier New";
+		font-size: 25px; 
+		color: white;
+		background-color: #404040;
+		border: none;
+		padding: 15px 32px;
+		display: inline-block;
+		border: 1px solid white; 
+		border-radius: 12px; 
+	}
+	.border1{ 
+		border-bottom: 1px solid white; 
+		border-top: 1px solid white;  
+		font-size: 70px;
+	}
+	.border2 { 
+		border: 1px solid white;
+	}
+	.wordsize1{
+		font-size: 70px;
+	}
+	.wordsize2{
+		font-size: 15px; 	
+		vertical-align: bottom; 
+	}
+	.wordsize3 {
+		font-size: 50px;
+		color: black;
+		font-family: Times New Roman;
+		text-align: center;
+		vertical-align: top;
+	}
+	.wordsize4 {
+		font-size: 20px; 
+		color: black; 
+		font-family: Times New Roman; 
+		text-align: center; 
+	}
+	.wordsize5 {
+		font-size: 20px; 
+		color: black; 
+		font-family: Times New Roman; 
+		text-align: left; 
+	}
+	.backgroundcolor {
+		background-color: white; 
+	}
+	aboutmetd.textalign {
+		text-align: left; 
+		font-size: 30px;
+	}
+	.center {
+		text-align: center; 
+	}
+	a:hover{
+		background-color: white;
+	}
+	a {
+		color: black;
+	}
+	.indent {
+		text-indent: 70px; 
+	}
+	.wordtype { 
+		color: red; 
+		font-weight: bold; 
+	}
+	#red { 
+		background-color: red; 
+	}
+	#orange { 
+		background-color: orange; 
+	}
+	#yellow {
+		background-color: gold;
+	}
+	#green {
+		background-color: green; 
+	}
+	
